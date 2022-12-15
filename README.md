@@ -1,5 +1,6 @@
+<img src="https://media.giphy.com/media/MUlmRFnTQxwJ2/giphy.gif" style="vertical-align:middle"/>
 
--<h1 align="center">Hi 👋, I'm Vithesh shetty @vitheshshetty00</h1>
+<h1 align="center">Hi 👋, I'm Vithesh shetty </h1>
 <h3 align="center">I am dead 🙂</h3>
 
 
