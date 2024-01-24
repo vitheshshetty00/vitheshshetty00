@@ -15,7 +15,7 @@
         <samp>
                 「 I Code what I Design 」
                 <br>
-                「 I am a front-end web developer and passionate ui designer from <b>Bangalore</b> 」
+                「 I am a passionate Computer science Engineer from <b>Bangalore</b> 」
                 <br>
                 <br>
         </samp>
